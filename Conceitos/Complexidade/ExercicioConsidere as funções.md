@@ -18,24 +18,25 @@ III. f(n)∈Θ(g(n))
 
 4.  f(n)=5n²+3n+7       g(n)=n²
 
-f(n) ∈ O(g(n));   
-
-f(n) ∈ Ω(g(n));
-
-f(n) ∈ Θ(g(n)) ;
-
-f(n)∈O(n³);
-
-f(n) ∈ Ω(nlogn) ;
-
-f(n)∈O(n^4);
-
-
-
+    - f(n) ∈ O(g(n));   
+    - f(n) ∈ Ω(g(n));
+    - f(n) ∈ Θ(g(n)) ;
+    - f(n)∈O(n³);
+    - f(n) ∈ Ω(nlogn) ;
+    - f(n)∈O(n^4);
+    - f(n)∈O(2^n);
+    - f(n)∈O(n!);
+    - f(n)∈Ω(n);
+    - f(n)∈Ω(logn);
+    - f(n)∈Ω(1)
+    
 
 
 
-5. f(n)=2^n + n^10  g(n)=n²
+
+
+
+6. f(n)=2^n + n^10  g(n)=n²
 
 I. f(n)∈O(g(n))   
 II. f(n)∈Ω(n^10)   OK
