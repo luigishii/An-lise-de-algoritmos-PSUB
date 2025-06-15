@@ -10,3 +10,5 @@ O resultado é a rede de ruas com o custo total mais baixo possível que conecta
 
 Para que serve?
 É como planejar a instalação de cabos de rede ou tubulações de água para conectar todos os pontos com o menor gasto possível.
+
+grafos não direcionados e ponderados.

@@ -14,3 +14,5 @@ Pra que serve?
 Encontrar o menor número de cliques para chegar a alguém no LinkedIn.
 Achar a rota mais rápida em um labirinto sem obstáculos especiais.
 Rastrear como a informação se espalha em uma rede.
+
+O algoritmo BFS (Busca em Largura) é usado principalmente para grafos não ponderados.

@@ -9,3 +9,5 @@ Repita: Continue escolhendo a cidade mais próxima e atualizando seus vizinhos a
 Importante: Ele só funciona se todos os "custos" das ruas forem positivos (sem atalhos que te fazem "ganhar" tempo ou dinheiro).
 
 É o algoritmo ideal para achar a melhor rota em mapas, redes de internet e outros sistemas onde os custos são sempre para frente.
+
+Você usa o algoritmo de Dijkstra para grafos ponderados (com pesos nas arestas), onde todos os pesos das arestas são não negativos (ou seja, positivos ou zero).

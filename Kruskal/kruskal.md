@@ -19,3 +19,7 @@ Como funciona (bem simples):
 Para que serve?
 
 Para planejar a forma mais barata de conectar pontos, seja em redes de computadores, tubulações ou até rotas de entrega.
+
+
+
+grafos não direcionados e ponderados.

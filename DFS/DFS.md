@@ -15,3 +15,11 @@ Descobrir se todo o mapa está conectado.
 Encontrar qualquer caminho entre dois pontos.
 Detectar se há "círculos" (ciclos) no mapa.
 Resolver labirintos ou jogos que exigem explorar todas as possibilidades de um ramo.
+
+
+O DFS é um algoritmo de travessia (exploração) de grafos que pode ser usado em qualquer tipo de grafo:
+
+Grafos Não Direcionados: Sim, funciona perfeitamente.
+Grafos Direcionados (Digrafos): Sim, funciona perfeitamente.
+Grafos Ponderados: Sim, funciona (mas não usa os pesos para determinar o caminho mais curto, apenas para explorar).
+Grafos Não Ponderados: Sim, funciona.

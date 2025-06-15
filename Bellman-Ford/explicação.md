@@ -19,3 +19,5 @@ CARACTERÍSTICAS:
 
 
 Em resumo, o Bellman-Ford é um algoritmo robusto para encontrar os menores caminhos, especialmente útil quando você tem custos negativos e precisa de uma forma de detectar se há "armadilhas" de custos negativos no seu mapa.
+
+Você usa o algoritmo Bellman-Ford para grafos ponderados (com pesos nas arestas) que podem conter pesos negativos.
