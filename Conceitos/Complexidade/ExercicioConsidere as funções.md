@@ -1,14 +1,37 @@
 1. Considere as funções f(n)=10n+50 e g(n)=n²
  
-I. f(n) ∈ O(g(n))  OK
-II. g(n) ∈ Ω(f(n))   OK
-III. f(n) ∈ Θ(g(n))    
+    f(n) ∈ O(n)
+    f(n) ∈ Ω(n)
+    f(n) ∈ Θ(n)
+    f(n) ∈ O(C * n) (para qualquer constante C > 0)
+    f(n) ∈ Ω(C * n) (para qualquer constante C > 0)
+    f(n) ∈ Θ(C * n) (para qualquer constante C > 0)
+    f(n) ∈ O(n log n)
+    f(n) ∈ O(n^2)
+    f(n) ∈ O(g(n)) (já que g(n) é n^2)
+    f(n) ∈ O(n^3)
+    f(n) ∈ O(2^n)
+    f(n) ∈ O(n!)
+    f(n) ∈ Ω(log n)
+    f(n) ∈ Ω(1)
+
 
 2. Considere as funções f(n)=log 2 n + 100 e g(n)=n.
 
-I. f(n)∈O(g(n)) OK
-II. g(n)∈Ω(f(n))  OK
-III. f(n)∈Θ(logn) OK
+    f(n) ∈ O(log n)
+    f(n) ∈ Ω(log n)
+    f(n) ∈ Θ(log n)
+    f(n) ∈ O(C * log n) (para qualquer constante C > 0)
+    f(n) ∈ Ω(C * log n) (para qualquer constante C > 0)
+    f(n) ∈ Θ(C * log n) (para qualquer constante C > 0)
+    f(n) ∈ O(n)
+    f(n) ∈ O(g(n)) (já que g(n) é n)
+    f(n) ∈ O(n log n)
+    f(n) ∈ O(n^2)
+    f(n) ∈ O(2^n)
+    f(n) ∈ O(n!)
+    f(n) ∈ Ω(1)
+
 
 3. Considere as funções f(n)=n! (fatorial de n) e g(n)=2^n(exponencial).
 
